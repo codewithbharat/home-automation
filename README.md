@@ -1,5 +1,3 @@
-Great choice! The Raspberry Pi Zero W is a compact and cost-effective option for your home automation project. Since it has built-in Wi-Fi (W) capabilities, it simplifies communication and connectivity in your setup. Here's an updated overview of your project using the Raspberry Pi Zero W:
-
 # Home Automation Project Idea with a Budget of ₹3000:
 
 **Overview:**
