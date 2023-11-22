@@ -1,8 +1,9 @@
+Great choice! The Raspberry Pi Zero W is a compact and cost-effective option for your home automation project. Since it has built-in Wi-Fi (W) capabilities, it simplifies communication and connectivity in your setup. Here's an updated overview of your project using the Raspberry Pi Zero W:
 
 # Home Automation Project Idea with a Budget of ₹3000:
 
 **Overview:**
-Create an economical home automation system using ESP32 microcontrollers and a Raspberry Pi 3 to control existing switches and appliances, with potential for future upgrades.
+Create an economical home automation system using ESP32 microcontrollers and a Raspberry Pi Zero W to control existing switches and appliances, with potential for future upgrades.
 
 ### Hardware Components:
 
@@ -11,9 +12,9 @@ Create an economical home automation system using ESP32 microcontrollers and a R
    - **Estimated Cost: ₹900 - ₹1200**
    - **Role:** Control existing switches and locks.
 
-2. **Central Hub (Raspberry Pi 3):**
+2. **Central Hub (Raspberry Pi Zero W):**
    - **Quantity: 1**
-   - **Estimated Cost: ₹1000 - ₹1500**
+   - **Estimated Cost: ₹700 - ₹1000**
    - **Role:** Manage communication and automation logic.
 
 3. **Power Supplies and Cables:**
@@ -27,7 +28,7 @@ Create an economical home automation system using ESP32 microcontrollers and a R
    - **Role:** Enable ESP32 to control existing switches and appliances.
 
 5. **Existing Hardware:**
-   - **Items:** USB Webcam, SD Card
+   - **Items:** USB Webcam, microSD Card
    - **Role:** Utilize for potential security monitoring and storage.
 
 6. **AI Integration Reserve:**
@@ -39,14 +40,14 @@ Create an economical home automation system using ESP32 microcontrollers and a R
 
 1. **Setup Hardware:**
    - Connect ESP32 devices to switches and locks.
-   - Connect Raspberry Pi to a stable power source and configure with Raspbian OS.
+   - Connect Raspberry Pi Zero W to a stable power source and configure with Raspbian OS.
 
 2. **Install Software:**
    - Flash ESP32 devices with necessary firmware.
-   - Install Node.js on Raspberry Pi and set up the Node.js server.
+   - Install Node.js on Raspberry Pi Zero W and set up the Node.js server.
 
 3. **Communication Setup:**
-   - Implement MQTT communication between ESP32 devices and Raspberry Pi.
+   - Implement MQTT communication between ESP32 devices and Raspberry Pi Zero W.
 
 4. **AI Integration (Future Upgrade):**
    - Allocate a small portion of the budget for potential future AI capabilities using TensorFlow Lite or other frameworks.
@@ -73,6 +74,6 @@ Create an economical home automation system using ESP32 microcontrollers and a R
     - Collect user feedback through the interface.
     - Regularly update the system based on feedback and new requirements.
 
-### Total Estimated Project Cost: ₹2700 - ₹3400
+### Total Estimated Project Cost: ₹2710 - ₹3230
 
-This revised plan adheres to your budget constraints while providing a foundation for a functional home automation system. It emphasizes essential features with room for future upgrades as your budget allows.
+This updated plan considers the Raspberry Pi Zero W and fits well within your budget constraints. It provides a foundation for a functional home automation system with room for future upgrades.
